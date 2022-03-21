@@ -1,7 +1,7 @@
 {
   "name": "dotfi-node-backend",
   "version": "1.0.0",
-  "description": "A small nodejs application to serve and handle datastore",
+  "description": "A small nodejs application to serve and handle data storage. The application makes use of filesystem for storage.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
