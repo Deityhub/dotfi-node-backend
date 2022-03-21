@@ -1,0 +1,26 @@
+{
+  "name": "dotfi-node-backend",
+  "version": "1.0.0",
+  "description": "A small nodejs application to serve and handle datastore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Jude Ojini <judoc96@gmail.com>",
+  "contributors": [
+    "Jude Ojini <judoc96@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
